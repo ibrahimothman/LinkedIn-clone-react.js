@@ -1,0 +1,21 @@
+.feed {
+    flex: 0.5;
+    margin: 0 20px;
+}
+
+.feed__inputContainer {
+    padding: 10px;
+    padding-bottom: 20px;
+}
+
+.feed__inputTop {
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+
+.feed__inputOptions {
+    display: flex;
+    justify-content: space-between;
+}
